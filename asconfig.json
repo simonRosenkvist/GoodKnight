@@ -1,0 +1,19 @@
+{
+    "config": "air",
+	"compilerOptions": {
+        "output": "bin/AgainstTheRopes.swf",
+        "source-path": [
+            "src",
+            "lib"
+        ],
+        "library-path": [
+            "asset/swc"
+        ]
+    },
+    "application": "src/AgainstTheRopes-app.xml",
+	"files":
+	[
+		"src/AgainstTheRopes.as"
+    ]
+    
+}

@@ -1,0 +1,12 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "swf",
+			"request": "launch",
+            "name": "Launch AIR",
+			"program": "bin/AgainstTheRopes.swf",
+			"preLaunchTask": "ActionScript: compile debug - asconfig.json"
+		}
+	]
+}
